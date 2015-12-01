@@ -17,3 +17,14 @@
 .impress-supported .fallback-message {
     display: none;
 }
+
+.step {
+	width: 1000px;
+	text-align: center;
+}
+
+#credit {
+	position: fixed;
+	left: 5px;
+	bottom: 1px;
+}
