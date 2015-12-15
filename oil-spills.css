@@ -165,4 +165,58 @@ p {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+}
+
+#overview-img {
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: 100px;
+	bottom: 200px;
+	width: 300px;
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+}
+
+#bp-img1 {
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: 150px;
+	bottom: 80px;
+	width: 100px;
+}
+
+#bp-img2 {
+	display: block;
+	position: relative;
+	margin-right: auto;
+	margin-left: 150px;
+	bottom: 90px;
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+}
+
+#bp-samples {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+}
+
+#impact-img, #Whatare-img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
 }
